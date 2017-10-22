@@ -27,4 +27,10 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
+    compile 'com.mindorks:placeholderview:0.2.7'
+    compile 'com.loopj.android:android-async-http:1.4.9'
+
+    compile 'com.amazonaws:aws-android-sdk-core:2.3.3'
+    compile 'com.amazonaws:aws-android-sdk-s3:2.3.3'
+    compile 'com.amazonaws:aws-android-sdk-ddb:2.3.3'
 }
